@@ -29,3 +29,17 @@ The relationships between these models are as follows:
 git clone git@github.com:mburufiona/code-challenge-coffee-shop.git
 cd code-challenge-coffee-shop
 ```
+
+2. **Create a Virtual Environment**
+```bash
+python -m venv venv
+```
+3. **Activate the Virtual Environment**
+- On Windows:
+```bash
+venv\Scripts\activate
+```
+- On macOS/Linux:
+```bash
+source venv/bin/activate
+```
