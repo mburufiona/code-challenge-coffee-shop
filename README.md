@@ -16,3 +16,8 @@ The relationships between these models are as follows:
 - **Customer Management:** Create and manage customers, track their orders, and identify the customer who has spent the most on a specific coffee.
 - **Coffee Management:** Create coffee types, track orders for each coffee, and calculate the number of orders and average price for each coffee.
 - **Order Management:** Link customers and coffee with a price, ensuring data integrity and enabling various queries.
+
+## Getting Started
+### Requirements
+- Python 3.x installed on your machine.
+- An IDE or text editor of your choice (such as VS Code, PyCharm, or Sublime Text).
