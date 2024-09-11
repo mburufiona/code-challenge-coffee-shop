@@ -69,7 +69,7 @@ coffee_shop/
 ├── venv/
 ├── README.md
 ```
-```bash
+
 ### Running Tests
 To ensure everything is working correctly, you can run the provided test suite. Assuming you have pytest installed, use the following command:
 ```bash
