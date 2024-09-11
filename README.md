@@ -21,3 +21,11 @@ The relationships between these models are as follows:
 ### Requirements
 - Python 3.x installed on your machine.
 - An IDE or text editor of your choice (such as VS Code, PyCharm, or Sublime Text).
+
+### Installation
+1. **Clone the Repository**
+
+```bash
+git clone git@github.com:mburufiona/code-challenge-coffee-shop.git
+cd code-challenge-coffee-shop
+```
