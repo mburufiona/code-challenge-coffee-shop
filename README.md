@@ -75,3 +75,12 @@ To ensure everything is working correctly, you can run the provided test suite. 
 ```bash
 python3 main.py
 ```
+## Contributing
+Feel free to contribute to this project by submitting issues, pull requests, or suggestions. Please follow standard Git workflow practices.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Author
+[Fiona Nduta](https://github.com/mburufiona)
+
